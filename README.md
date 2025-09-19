@@ -1,2 +1,2 @@
 # TLSVR-GMMs: Transfer Learning-Based SVR for Ground Motion Models Under Insufficient Data
-This repository contains the source code for the paper "Reducing ground motion model uncertainty through transfer learning in conditions of insufficient data", which proposes a Transfer Learning-enhanced Support Vector Regression (TLSVR) framework to develop robust Ground Motion Models (GMMs) when local seismic data is scarce.
+This repository contains the source code for the paper "Reducing ground motion model uncertainty through transfer learning in conditions of insufficient data", which proposes a Transfer Learning-enhanced Support Vector Regression (TLSVR) framework for reducing ground motion model uncertainty in conditions of data insufficiency.
